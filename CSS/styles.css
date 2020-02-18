@@ -52,3 +52,9 @@ header h2 {
 label{
     color:black ;
 }
+
+#carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
